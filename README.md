@@ -26,3 +26,6 @@ Dans cette section, vous allons les notions de base de routage en angular
 
 ## Comment protéger les routes en ng
 ![protege](./image/commentprotegerroute.png)
+
+## NG CANACTIVE
+![canactive](./image/canactive.png)
