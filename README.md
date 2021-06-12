@@ -38,3 +38,6 @@ Dans cette section, vous allons les notions de base de routage en angular
 
 ## C'est quoi RXJS
 ![rxjs](./image/definirxjs.png)
+
+## Qu'est ce qu'un observable et un observateur
+![ob](./image/exempleobservable.png)
