@@ -35,3 +35,6 @@ Dans cette section, vous allons les notions de base de routage en angular
 
 ## Le HTTP et RXJS
 ![hhtp et rxjs](./image/http2.png)
+
+## C'est quoi RXJS
+![rxjs](./image/definirxjs.png)
