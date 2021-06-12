@@ -41,3 +41,6 @@ Dans cette section, vous allons les notions de base de routage en angular
 
 ## Qu'est ce qu'un observable et un observateur
 ![ob](./image/exempleobservable.png)
+
+## Qu'est ce qu'un observable et un observateur
+![ob](./image/exempleobservable2.png)
