@@ -29,3 +29,6 @@ Dans cette section, vous allons les notions de base de routage en angular
 
 ## NG CANACTIVE
 ![canactive](./image/canactive.png)
+
+## Le Protocole HTTP en ng
+![http](./image/http.png)
