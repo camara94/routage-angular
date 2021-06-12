@@ -8,3 +8,6 @@ Dans cette section, vous allons les notions de base de routage en angular
 
 ## Le fichier AppRoutingModule
 ![appRouting](./image/approutingmoule.png)
+
+## L'implémentation du routage
+![impl](./image/implementerroutageetnavigation.png) 
