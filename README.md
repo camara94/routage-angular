@@ -5,3 +5,6 @@ Dans cette section, vous allons les notions de base de routage en angular
 
 ## La navigation en angular
 ![principe](./image/navigation.png)
+
+## Le fichier AppRoutingModule
+![appRouting](./image/approutingmoule.png)
