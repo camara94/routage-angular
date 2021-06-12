@@ -52,4 +52,4 @@ Dans cette section, vous allons les notions de base de routage en angular
 ![module](./image/definirModule.png)
 ![module](./image/definirModule2.png)
 ![module](./image/definirModule3.png)
-
+![module](./image/moduleng.png)
