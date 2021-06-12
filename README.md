@@ -14,3 +14,6 @@ Dans cette section, vous allons les notions de base de routage en angular
 
 ## Le système de navigation en ng
 ![systeme de nav](./image/systemedenav.png)
+
+## La création des components en ng
+![component](./image/component.png)
