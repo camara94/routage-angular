@@ -32,3 +32,6 @@ Dans cette section, vous allons les notions de base de routage en angular
 
 ## Le Protocole HTTP en ng
 ![http](./image/http.png)
+
+## Le HTTP et RXJS
+![hhtp et rxjs](./image/http2.png)
