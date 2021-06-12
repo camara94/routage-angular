@@ -20,3 +20,6 @@ Dans cette section, vous allons les notions de base de routage en angular
 
 ## Les paramètres de routage en ng
 ![param](./image/parametrederoutage.png)
+
+## Les paramètres de routage 2 en ng
+![param](./image/parametrederoutage2.png)
