@@ -17,3 +17,6 @@ Dans cette section, vous allons les notions de base de routage en angular
 
 ## La création des components en ng
 ![component](./image/component.png)
+
+## Les paramètres de routage en ng
+![param](./image/parametrederoutage.png)
