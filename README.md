@@ -51,4 +51,5 @@ Dans cette section, vous allons les notions de base de routage en angular
 ## Définition de Module en ng
 ![module](./image/definirModule.png)
 ![module](./image/definirModule2.png)
+![module](./image/definirModule3.png)
 
